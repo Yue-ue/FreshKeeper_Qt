@@ -1,0 +1,28 @@
+# Qt Creator and generated build products
+*.pro.user
+*.pro.user.*
+*.autosave
+*.autosave.*
+build-*/
+build/
+Makefile*
+debug/
+release/
+*.o
+*.obj
+*.exe
+*.dll
+*.pdb
+
+# Local runtime data
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# Local editor and OS files
+.vs/
+.vscode/
+.idea/
+Thumbs.db
+Desktop.ini
